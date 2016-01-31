@@ -1,0 +1,8 @@
+name: dev_data_prod
+account: denfire
+server: shinyapps.io
+bundleId: 362690
+url: https://denfire.shinyapps.io/dev_data_prod/
+when: 1454259652.64734
+asMultiple: FALSE
+asStatic: FALSE
